@@ -1,0 +1,6 @@
+{
+  "extends": "./templates/tsconfigs/recommended.json",
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
