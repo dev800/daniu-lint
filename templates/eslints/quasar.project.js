@@ -1,7 +1,7 @@
 module.exports = {
   root: true,
   parserOptions: {
-    project: '../tsconfigs/eggjs.json',
+    project: '../tsconfigs/quasar.json',
   },
   extends: [
     'eslint-config-egg/typescript',

@@ -1,6 +1,6 @@
-# kinlong-lib
+# daniu-lint
 
-> kinlong前端开发的通用工具库
+> daniu前端开发的通用工具库
 
 ## Build Setup
 

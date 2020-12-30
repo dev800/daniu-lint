@@ -25,7 +25,7 @@ module.exports = {
     '^.+\\.tsx?$': require.resolve('ts-jest'),
   },
 
-  transformIgnorePatterns: ['/node_modules/(?!(kinlong-ele|kinlong-lib)/)'],
+  transformIgnorePatterns: ['/node_modules/(?!(daniu-ele|daniu-lib|daniu-api|daniu-uni)/)'],
 
   // support the same @ -> src alias mapping in source code
   moduleNameMapper: {

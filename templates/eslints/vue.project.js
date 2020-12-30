@@ -1,6 +1,3 @@
-/**
- * kinlong eslint推荐vue.project
- */
 module.exports = {
   root: true,
   parserOptions: {

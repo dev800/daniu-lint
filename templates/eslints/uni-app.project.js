@@ -1,6 +1,3 @@
-/**
- * kinlong eslint推荐for uni-app
- */
 module.exports = {
   root: true,
   parserOptions: {
